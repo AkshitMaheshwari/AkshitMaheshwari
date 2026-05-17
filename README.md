@@ -16,7 +16,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imhrsit&color=dc143c&style=flat-square" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=AkshitMaheshwari&color=dc143c&style=flat-square" alt="Profile views">
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
